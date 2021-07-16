@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1", "completed": false },
-    { "id": 2, "title": "Post 2", "completed": false },
-    { "id": 3, "title": "Post 3", "completed": false }
+    { "id": 1, "title": "learn Vue CLI", "completed": ture },
+    { "id": 2, "title": "learn Vue life cycles", "completed": ture },
+    { "id": 3, "title": "To-Do App", "completed": false }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
